@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "../../../../tic-tac-toe"
+		},
+		{
+			"path": "../../../../thinking-in-react"
+		},
+		{
+			"path": "../.."
+		}
+	],
+	"settings": {}
+}
